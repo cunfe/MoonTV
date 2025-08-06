@@ -84,6 +84,18 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "lao": {
+      "api": "https://laosebizy.com/api.php/provide/vod",
+      "name": "lao"
+    },
+    "jk": {
+      "api": "https://jkunzy.com/api.php/provide/vod",
+      "name": "jk"
+    },
+    "sen": {
+      "api": "https://senlinzy.com/api.php/provide/vod",
+      "name": "sen"
     }
   }
 }
